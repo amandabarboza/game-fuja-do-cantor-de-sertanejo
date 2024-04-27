@@ -1,6 +1,6 @@
 <h1 style="text-align: center;"><b> Fuja do Cantor de Sertanejo 🏃 </b></h1>
 
-[![Jogo](https://img.shields.io/website?label=Clique-aqui-para-jogar&style=for-the-badge&url=https://spacewarsed.netlify.app/)](https://662c4581769e9059affd4c0b--graceful-jalebi-6b4a0d.netlify.app/)
+[![Jogo](https://img.shields.io/website?label=Clique aqui para jogar&style=for-the-badge&url=https://spacewarsed.netlify.app/)](https://662c4581769e9059affd4c0b--graceful-jalebi-6b4a0d.netlify.app/)
 
 <h4><b>Descrição do jogo</b></h4>
 
