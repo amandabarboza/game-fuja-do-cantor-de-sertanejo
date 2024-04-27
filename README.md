@@ -28,7 +28,7 @@ Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar m
 <br>
 
 <h4>Tela principal do jogo</h4>
-<p> O objetivo é coletar o máximo de moedas possíveis, tendo que desviar do cantor de sertanejo para não morrer. </p>
+<p> O objetivo é coletar o máximo de moedas possível, tendo que desviar do cantor de sertanejo para não morrer. </p>
 
 ![Captura de tela 2024-04-26 214547](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/547b69ab-911d-4f6a-8ee2-38fed6a0b37b)
 
