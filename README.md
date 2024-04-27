@@ -5,7 +5,7 @@
 <h3><b>Descrição do jogo</b></h3>
 
 
-Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar moedas enquanto desvia dos cantores de sertanejo que caem do céu como projéteis em alta velocidade.
+Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar moedas enquanto desvia do cantor de sertanejo que cai do céu como projétil em alta velocidade.
 
 
 
@@ -15,9 +15,11 @@ Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar m
 <p><b>Mobile:</b> toque no lado esquerdo ou direito da tela </p>
 <p><b>Desktop:</b> clique com o lado esquerdo do mouse para o lado esquerdo ou direito da aba do navegador</p>
 
+<p>Menu inicial</p>
 ![Captura de tela 2024-04-26 214518](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/49b696f8-c3c5-4680-bb49-341ae7149592)
 
 
+<p>Tela principal do jogo, onde o objetivo é coletar moedas o máximo de moedas possível, tendo que desviar do cantor de sertanejo para não morrer. </p>
 
 ![Captura de tela 2024-04-26 214547](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/547b69ab-911d-4f6a-8ee2-38fed6a0b37b)
 
