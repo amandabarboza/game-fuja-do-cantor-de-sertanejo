@@ -2,7 +2,7 @@
 
 [![Jogo](https://img.shields.io/website?label=Clique_aqui_para_jogar&style=for-the-badge&url=https://spacewarsed.netlify.app/)](https://662c4581769e9059affd4c0b--graceful-jalebi-6b4a0d.netlify.app/)
 
-<h4><b>Descrição do jogo</b></h4>
+<h3><b>Descrição do jogo</b></h3>
 
 
 
@@ -15,7 +15,7 @@
 ![Captura de tela 2024-04-26 214518](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/49b696f8-c3c5-4680-bb49-341ae7149592)
 
 
-<h4 style="color: rgb(141, 141, 141);"> Banco de Dados </h4> <br> 
+<h3 style="color: rgb(141, 141, 141);"> Banco de Dados </h3> <br> 
 
 
   
