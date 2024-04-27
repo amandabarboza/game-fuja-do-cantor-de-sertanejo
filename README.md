@@ -16,7 +16,8 @@
 
 
 <p style="color: rgb(141, 141, 141);"> BANCO DE DADOS <br> 
-![database](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/13cebe54-195e-49e5-b52f-d35ff229792a)
+
 
   
   <br> Após digitar seu nome e clicar em "Enviar", suas informações sobre sua pontuação e nome serão armazenadas no banco de dados que está vinculado ao jogo. </p>
+![database](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/b8540dae-579b-4b12-ba52-6ffdf2e1e041)
