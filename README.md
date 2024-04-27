@@ -6,7 +6,7 @@
 Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar moedas enquanto desvia do cantor de sertanejo que cai do céu como projétil em alta velocidade.
 <br>
 
-<h4>Clique no botão abaixo para jogar:</h4>
+<h4>Clique no botão abaixo para jogar: ⬇️</h4>
 
 [![Jogo](https://img.shields.io/website?label=Fuja-do-Cantor-de-Sertanejo&style=for-the-badge&url=https://spacewarsed.netlify.app/)](https://662c4581769e9059affd4c0b--graceful-jalebi-6b4a0d.netlify.app/)
 
