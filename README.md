@@ -28,7 +28,7 @@ Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar m
 <br>
 
 <h4>Tela principal do jogo</h4>
-<p> O objetivo é coletar moedas o máximo de moedas possível, tendo que desviar do cantor de sertanejo para não morrer. </p>
+<p> O objetivo é coletar o máximo de moedas possíveis, tendo que desviar do cantor de sertanejo para não morrer. </p>
 
 ![Captura de tela 2024-04-26 214547](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/547b69ab-911d-4f6a-8ee2-38fed6a0b37b)
 
@@ -36,14 +36,6 @@ Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar m
 <h4>Game Over</h4> <p>Tela que mostra a sua pontuação e pede para que você registre seu nome para ser armazenado e te redireciona para o menu inicial.</p>
 
 ![Captura de tela 2024-04-26 214556](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/6ad734bd-8ee7-428a-b255-71a3593d9fdf)
-
-<br>
-<h3> Som</h3>
-<ol>
-  <li><b>Fundo:</b> "Can you feel my heart?" - Bring Me The Horizon </li>
-  <li><b>Coletar moeda:</b> Som padrão </li>
-  <li><b>Destruição do personagem:</b> "Fala comigo bb!" </li>
-</ol>
 
 <br>
 <h3 style="color: rgb(141, 141, 141);"> Banco de Dados </h3> 
