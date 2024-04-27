@@ -15,6 +15,8 @@ Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar m
 
 <h3><b>🎮 Modo de Jogar 🎮</b></h3> 
 
+<p> 🚨 Atenção: se for jogar no iPhone, certifique-se de que não esteja no modo silencioso para que consiga ouvir os sons do jogo. </p>
+
 <ol>
   <li><b>Mobile:</b> toque no lado esquerdo ou direito da tela </li>
   <li><b>Desktop:</b> clique com o lado esquerdo do mouse para o lado esquerdo ou direito da aba do navegador</li>
