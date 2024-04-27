@@ -1,10 +1,10 @@
 <h1 style="text-align: center;"><b> Fuja do Cantor de Sertanejo 🏃 - Game </b></h1>
 
-<h4><b>Descrição do jogo</b></h4>
+<h3><b>Descrição do jogo</b></h3>
 
 
 Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar moedas enquanto desvia do cantor de sertanejo que cai do céu como projétil em alta velocidade.
-<br>
+<br><br>
 
 <h4>Clique no botão abaixo para jogar: ⬇️</h4>
 
