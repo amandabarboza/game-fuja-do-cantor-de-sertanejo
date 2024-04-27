@@ -30,12 +30,13 @@ Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar m
 
 ![Captura de tela 2024-04-26 214547](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/547b69ab-911d-4f6a-8ee2-38fed6a0b37b)
 
+<br>
 <h4>Game Over</h4> <p>Tela que mostra a sua pontuação e pede para que você registre seu nome para ser armazenado e te redireciona para o menu inicial.</p>
 
 ![Captura de tela 2024-04-26 214556](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/6ad734bd-8ee7-428a-b255-71a3593d9fdf)
 
 <br>
-<h3 style="color: rgb(141, 141, 141);"> Banco de Dados </h3> <br> 
+<h3 style="color: rgb(141, 141, 141);"> Banco de Dados </h3> 
 <p>Após digitar seu nome e clicar em "Enviar", suas informações sobre sua pontuação e nome serão armazenadas no banco de dados que está vinculado ao jogo. </p>
 
 ![database](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/b8540dae-579b-4b12-ba52-6ffdf2e1e041)
