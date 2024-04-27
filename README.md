@@ -8,7 +8,7 @@
 
 
 
-<b>MODO DE JOGAR</b> </br>
+<h3><b>MODO DE JOGAR</b></h3> </br>
 <b>Mobile:</b> toque no lado esquerdo ou direito da tela 
 </br>
 <b>Desktop:</b> clique com o lado esquerdo do mouse para o lado esquerdo ou direito da aba do navegador
