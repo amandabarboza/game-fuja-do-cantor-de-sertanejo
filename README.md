@@ -46,12 +46,14 @@ Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar m
 <br>
 
 <h4>Tela para ir para o Ranking</h4>
+
 ![Captura de tela 2024-04-28 172919](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/d95016c6-702d-4752-8bd0-ddeffb696457)
 
 <br>
 
 
 <h4>Ranking</h4>
+
 ![Captura de tela 2024-04-28 172942](https://github.com/amandabarboza/Game-Fuja-do-Cantor-de-Sertanejo/assets/71797931/9e408481-ccaf-4aa7-a898-4cadfa720b00)
 
 <br>
