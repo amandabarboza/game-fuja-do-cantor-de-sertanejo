@@ -4576,9 +4576,14 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.Spawn,
 		C3.Plugins.System.Acts.AddVar,
 		C3.Plugins.System.Acts.Wait,
+		C3.Plugins.System.Cnds.IsPreview,
 		C3.Plugins.Touch.Cnds.OnTapGestureObject,
 		C3.Plugins.AJAX.Acts.Post,
-		C3.Plugins.TextBox.Exps.Text
+		C3.Plugins.TextBox.Exps.Text,
+		C3.Plugins.AJAX.Acts.Request,
+		C3.Plugins.AJAX.Cnds.OnComplete,
+		C3.Plugins.AJAX.Exps.LastData,
+		C3.Plugins.System.Exps.replace
 	];
 };
 self.C3_JsPropNameTable = [
@@ -4603,9 +4608,11 @@ self.C3_JsPropNameTable = [
 	{Texto: 0},
 	{Áudio: 0},
 	{Sprite2: 0},
+	{Sprite3: 0},
 	{Sprite4: 0},
 	{input_nome: 0},
 	{Texto2: 0},
+	{Sprite5: 0},
 	{input_medo: 0},
 	{enviar: 0},
 	{btn_enviar: 0},
@@ -4613,7 +4620,14 @@ self.C3_JsPropNameTable = [
 	{Texto3: 0},
 	{txt_pontos: 0},
 	{Sprite6: 0},
-	{pontos: 0}
+	{Sprite7: 0},
+	{btn_ranking: 0},
+	{txt_objpontos: 0},
+	{Sprite8: 0},
+	{Sprite9: 0},
+	{Sprite10: 0},
+	{pontos: 0},
+	{obj_pontos: 0}
 ];
 
 self.InstanceType = {
@@ -4634,16 +4648,24 @@ self.InstanceType = {
 	Texto: class extends self.ITextInstance {},
 	Áudio: class extends self.IInstance {},
 	Sprite2: class extends self.ISpriteInstance {},
+	Sprite3: class extends self.ISpriteInstance {},
 	Sprite4: class extends self.ISpriteInstance {},
 	input_nome: class extends self.ITextInputInstance {},
 	Texto2: class extends self.ITextInstance {},
+	Sprite5: class extends self.ISpriteInstance {},
 	input_medo: class extends self.ITextInputInstance {},
 	enviar: class extends self.ISpriteInstance {},
 	btn_enviar: class extends self.IButtonInstance {},
 	AJAX: class extends self.IInstance {},
 	Texto3: class extends self.ITextInstance {},
 	txt_pontos: class extends self.ITextInstance {},
-	Sprite6: class extends self.ISpriteInstance {}
+	Sprite6: class extends self.ISpriteInstance {},
+	Sprite7: class extends self.ISpriteInstance {},
+	btn_ranking: class extends self.ISpriteInstance {},
+	txt_objpontos: class extends self.ITextInstance {},
+	Sprite8: class extends self.ISpriteInstance {},
+	Sprite9: class extends self.ISpriteInstance {},
+	Sprite10: class extends self.ISpriteInstance {}
 }
 }
 
@@ -4773,6 +4795,7 @@ self.C3_ExpressionFuncs = [
 		},
 		() => 1,
 		() => 3,
+		() => 2,
 		() => "Enviar",
 		() => "https://emo-s-fear-challenge-game-default-rtdb.firebaseio.com/pontuacao.json",
 		p => {
@@ -4781,7 +4804,37 @@ self.C3_ExpressionFuncs = [
 			return () => (and((("{\"" + n0.ExpObject()) + "\":"), v1.GetValue()) + "}");
 		},
 		() => "PATCH",
-		() => 0.5
+		() => 0.5,
+		() => "Atualizar",
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			return () => f0();
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => f0(v1.GetValue(), "", "");
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => f0(v1.GetValue(), "{", "");
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => f0(v1.GetValue(), "}", "");
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => f0(v1.GetValue(), "\"", "");
+		},
+		p => {
+			const f0 = p._GetNode(0).GetBoundMethod();
+			const v1 = p._GetNode(1).GetVar();
+			return () => f0(v1.GetValue(), ",", "\n");
+		}
 ];
 
 
