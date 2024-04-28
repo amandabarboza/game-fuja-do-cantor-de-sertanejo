@@ -28,7 +28,7 @@ Em 'Fuja do Cantor de Sertanejo', você controla um jovem emo que deve coletar m
 
 <br>
 
-<H5> Telas do jogo </H5>
+<h3> Telas do jogo </h3>
 
 <h4>Menu inicial</h4>
 
